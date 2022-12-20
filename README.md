@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterm-13&label=Profile%20views&color=0e75b6&style=flat" alt="peterm-13" /> </p>
 
-- 👨‍💻 See my portfolio at [https://peter-metcalfe.co.uk/](https://peter-metcalfe.co.uk/)
-- 🌀 See my 3D models at [https://www.thingiverse.com/peter-metcalfe/designs](https://www.thingiverse.com/peter-metcalfe/designs)
-- 🔧 See all my projects on my [Instagram](https://www.thingiverse.com/peter-metcalfe/designs) below
+- 👨‍💻 See my portfolio at [Peter-Metcalfe.co.uk](https://peter-metcalfe.co.uk/)
+- 🌀 See my 3D models on [Thingiverse](https://www.thingiverse.com/peter-metcalfe/designs)
+- 🔧 See all my projects on my [Instagram](https://www.thingiverse.com/peter-metcalfe/designs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
