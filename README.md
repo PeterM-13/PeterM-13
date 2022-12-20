@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/peter-metcalfe-1me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peter-metcalfe-1me/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/peter_metcalfe_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/peter_metcalfe_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uciaozi2c7f1c7663dwhgeew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uciaozi2c7f1c7663dwhgeew" height="30" width="40" /></a>
-<a href="https://discord.gg/3272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3272" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peter-metcalfe-1me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-metcalfe-1me" height="30" width="40" /></a>
+<a href="https://instagram.com/peter_metcalfe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peter_metcalfe_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uciaozi2c7f1c7663dwhgeew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uciaozi2c7f1c7663dwhgeew" height="30" width="40" /></a>
+<a href="https://discord.gg/#3272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3272" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
