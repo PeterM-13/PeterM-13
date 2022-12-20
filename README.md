@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterm-13&label=Profile%20views&color=0e75b6&style=flat" alt="peterm-13" /> </p>
 
 - 👨‍💻 See my portfolio at [Peter-Metcalfe.co.uk](https://peter-metcalfe.co.uk/)
-- 🔧 See all my projects on my [Instagram](https://www.thingiverse.com/peter-metcalfe/designs)
+- 🔧 See all my projects on my [Instagram](https://www.instagram.com/peter_metcalfe_/)
 - 🎮 See my mobile game on the [AppStore](https://apps.apple.com/il/app/alien-crush-3d/id1635056740?platform=iphone)
 - 🌀 See my 3D models on [Thingiverse](https://www.thingiverse.com/peter-metcalfe/designs)
 
