@@ -5,7 +5,7 @@
 
 - 👨‍💻 See my portfolio at [https://peter-metcalfe.co.uk/](https://peter-metcalfe.co.uk/)
 - 🌀 See my 3D models at [https://www.thingiverse.com/peter-metcalfe/designs](https://www.thingiverse.com/peter-metcalfe/designs)
-- 🔧 See all my projects on my [Instaagram]((https://www.thingiverse.com/peter-metcalfe/designs)) vvv
+- 🔧 See all my projects on my [Instaagram](https://www.thingiverse.com/peter-metcalfe/designs) below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
