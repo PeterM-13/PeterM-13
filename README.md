@@ -5,7 +5,7 @@
 
 - 👨‍💻 See my portfolio at [Peter-Metcalfe.co.uk](https://peter-metcalfe.co.uk/)
 - 🔧 See all my projects on my [Instagram](https://www.thingiverse.com/peter-metcalfe/designs)
-- 🎮 See me mobile game on the [AppStore](https://apps.apple.com/il/app/alien-crush-3d/id1635056740?platform=iphone)
+- 🎮 See my mobile game on the [AppStore](https://apps.apple.com/il/app/alien-crush-3d/id1635056740?platform=iphone)
 - 🌀 See my 3D models on [Thingiverse](https://www.thingiverse.com/peter-metcalfe/designs)
 
 <h3 align="left">Connect with me:</h3>
