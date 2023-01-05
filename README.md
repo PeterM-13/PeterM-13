@@ -18,10 +18,11 @@
 <h3 align="left">Codewars:</h3>
 <a href="https://www.codewars.com/users/PeterM-13" target="_blank"><img src="https://www.codewars.com/users/PeterM-13/badges/large"/></a>
 
-<!--
+
+<br/>
 <br/>
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterm-13&show_icons=true&locale=en&layout=compact&langs_count=4" alt="peterm-13" /></p> 
--->
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=peterm-13&label=Profile%20views&color=0e75b6&style=flat" alt="peterm-13" /> </p>
