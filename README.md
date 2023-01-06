@@ -2,11 +2,15 @@
 <h3 align="center">Aspiring Software Developer</h3>
 <br/>
 
-- 👨‍💻 See my portfolio at [Peter-Metcalfe.co.uk](https://peter-metcalfe.co.uk/)
-- 🛠️ See all my projects on my [Instagram](https://www.instagram.com/peter_metcalfe_/)
-- 🎮 See my mobile game on the [AppStore](https://apps.apple.com/il/app/alien-crush-3d/id1635056740?platform=iphone)
-- 🌀 See my fractal generation on this [Website](https://peter-metcalfe.co.uk/fractals/)
-- 🌟 See my 3D models on [Thingiverse](https://www.thingiverse.com/peter-metcalfe/designs)
+👨‍💻 See my portfolio at [Peter-Metcalfe.co.uk](https://peter-metcalfe.co.uk/)
+
+🎮 See my mobile game on the [AppStore](https://apps.apple.com/il/app/alien-crush-3d/id1635056740?platform=iphone)
+
+🌀 See my fractal generation on this [Website](https://peter-metcalfe.co.uk/fractals/)
+
+🛠️ See all my projects on my [Instagram](https://www.instagram.com/peter_metcalfe_/)
+
+🌟 See my 3D models on [Thingiverse](https://www.thingiverse.com/peter-metcalfe/designs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/peter-metcalfe-1me/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-metcalfe-1me" height="40" width="40" style="margin-right:10px"/>
