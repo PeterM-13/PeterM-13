@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Metcalfe</h1>
-<h3 align="center">Software Degree Apprentice + Aspiring Software Developer</h3>
+<h3 align="center">Software Degree Apprentice</h3>
 <br/>
 
 👨‍💻 See my portfolio at [Peter-Metcalfe.co.uk](https://peter-metcalfe.co.uk/)
